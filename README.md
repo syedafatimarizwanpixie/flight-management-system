@@ -1,6 +1,8 @@
-Flight Management System (BST)
+Flight Management System 
 
 A C++ program that stores flight records in a Binary Search Tree, ordered by unique Flight ID.
+
+Phase 1: Main Database
 
 Features
 - Add, search, and delete flights by Flight ID

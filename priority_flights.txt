@@ -1,0 +1,6 @@
+205,Multan,Karachi,PIA,07:45,09:30,1.75,16000,Delayed,35,235
+202,Karachi,Islamabad,Airblue,08:00,10:00,2.00,22000,Scheduled,0,100
+203,Islamabad,Lahore,SereneAir,10:15,11:15,1.00,12000,Delayed,20,220
+204,Lahore,Skardu,PIA,11:00,12:15,1.25,24000,Scheduled,0,100
+201,Lahore,Karachi,PIA,09:30,11:15,1.75,18000,Scheduled,0,100
+206,Karachi,Lahore,AirSial,09:00,10:45,1.75,19000,Delayed,10,210

@@ -1,8 +1,8 @@
-Flight Management System
+### Flight Management System
 
 A C++ program that stores flight records in a Binary Search Tree (Phase 1) and manages departures with a Max-Heap priority queue (Phase 2). The BST is the main flight database, and the Max-Heap is the departure queue/runway command.
 
-Phase 1: BST Flight Database
+### Phase 1: BST Flight Database
 
 A program that stores flight records in a Binary Search Tree, ordered by unique Flight ID.
 
